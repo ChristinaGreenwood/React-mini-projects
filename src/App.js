@@ -15,14 +15,14 @@ import Signup from "./Signup";
 export default function App() {
   return (
     <div className='app'>
-      {/* <State />
+      <State />
       <ObjectState />
       <Ternary />
       <Counter />
       <Middle />
       <Main />
-      <UseState /> */}
-      {/* <Form /> */}
+      <UseState />
+      <Form />
       <Signup />
     </div>
   );
